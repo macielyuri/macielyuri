@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Boas vindas ao meu perfil :blue_heart
 
-Meu nome é Marcelo Paludetto
+Meu nome é Maciel yuri
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
